@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mag @mjiraboondilok
+- 👋 Hi, I’m Mag @mjiraboondilok come see my posts https://jiraboon.page
 - 👀 I’m interested in using data science and automation to make sense of complex problems
 - 🌱 I’m currently learning fastai and django
-- 📫 matuts.j@gmail.com
+- 📫 mailto:mag@jiraboon.page
 
 <!---
 mjiraboondilok/mjiraboondilok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
