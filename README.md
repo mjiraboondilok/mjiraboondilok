@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mag @mjiraboondilok come see my posts https://jiraboon.page
+- 👋 Hi, I’m Mag @mjiraboondilok come see what I'm working on at https://jiraboon.page
 - 👀 I’m interested in using data science and automation to make sense of complex problems
 - 🌱 I’m currently learning fastai and django
 - 📫 mailto:mag@jiraboon.page
